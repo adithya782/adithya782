@@ -192,15 +192,19 @@ Always experimenting with new ideas, exploring emerging technologies and buildin
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithya782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya782&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya782&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-<br/><br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithya782&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithya782&theme=tokyonight" />
+
 
 <img width="70%" src="https://streak-stats.demolab.com?user=adithya782&theme=tokyonight&hide_border=true" />
 
