@@ -156,7 +156,7 @@ A productivity-focused mobile application designed to help students manage their
 
 **Tech:** React Native · Expo · TypeScript · AsyncStorage
 
-<a href="https://github.com/adithya782?tab=repositories">Explore Projects ↗</a>
+<a href="https://github.com/adithya782/StudentFlow">Explore Project↗</a>
 
 </td>
 </tr>
@@ -164,21 +164,7 @@ A productivity-focused mobile application designed to help students manage their
 <tr>
 <td width="50%">
 
-### 🧠 Industrial Defect Detection
 
-A deep learning project focused on identifying defects in industrial surface images.
-
-- Image preprocessing
-- CNN-based classification experiments
-- Deep learning model training
-- Model evaluation and performance analysis
-
-**Tech:** Python · PyTorch · Computer Vision
-
-<a href="https://github.com/adithya782/StudentFlow">Explore Project ↗</a>
-
-</td>
-<td width="50%">
 
 ### ⚡ More Coming Soon...
 
